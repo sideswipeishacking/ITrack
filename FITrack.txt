@@ -75,7 +75,7 @@ TAB
 SPACE
 ENTER
 DEFAULT_DELAY 100
-STRING yneverknow498@gmail.com
+STRING sideswipe@exmaple.com
 ENTER
 TAB
 TAB

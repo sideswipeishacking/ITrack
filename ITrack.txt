@@ -6,7 +6,7 @@ REM Props: Hak5
 REM Version: 1.2
 REM Category: Mobile
 
-DEFINE #EMAIL yneverknow498@gmail.com
+DEFINE #EMAIL sideswipe@exmaple.com
 
 REM Default Delay optimzed for Iphone 14 Pro
 DEFAULT_DELAY 100
