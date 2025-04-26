@@ -7,9 +7,17 @@
 ## Setup
 The Payload requires **Full Keyboard Access to be enabled** to run properly. There are also some differences between the **2 version**:
 - <u>**ITrack.txt:**</u>
+	- **USB Rubber Ducky** Payload
+	- **Speed Optimization** from Flipper
+- <u>**ITrack_CrossPV.txt:**</u>
+	- **USB Rubber Ducky** Payload
+	- Default Delay of 600ms & Minor Custom Delays
+- <u>**FITrack.txt:**</u>
+	- **Flipper Zero** BadUSB Payload
 	- Custom Delays set for **Speed Optimization**
 	- Speed tested on **Iphone 14 Pro**
-- <u>**ITrack_CrossP.txt:**</u>
+- <u>**FITrack_CrossPV.txt:**</u>
+	- **Flipper Zero** BadUSB Payload
 	- Default Delay of 600ms & Minor Custom Delays
 
 1. **Enable Full Keyboard Access**
