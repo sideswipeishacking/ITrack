@@ -4,6 +4,10 @@
 3. Sets the Timer to **24h**
 4. Enables Sharing for an **Email of Choice**
 
+## Disclaimer
+<font size=5>**!!!These Payloads should be used for EDUCATIONAL PURPOSES ONLY!!!**</font>
+While also not used to harm, attack or unbuckle anyone's rights to privacy and informational freedom, ever
+
 ## Setup
 The Payload requires **Full Keyboard Access to be enabled** to run properly. There are also some differences between the **2 version**:
 - <u>**ITrack.txt:**</u>
